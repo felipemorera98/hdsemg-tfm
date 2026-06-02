@@ -17,3 +17,7 @@ Máster Universitario en Robótica y Automatización de la UC3M.
 - `decoder.py` — Decodificación de tramas ADS1298
 
 ## Requisitos
+pip install PyQt6 pyqtgraph pyserial numpy
+
+## Autor
+Cristian Felipe Morera Beltran — UC3M 2025-2026
